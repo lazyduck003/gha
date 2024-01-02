@@ -1,0 +1,112 @@
+.ashvath-shyam-sundar {
+  position: absolute;
+  height: 9.45%;
+  width: 99.43%;
+  top: 75.63%;
+  left: 5.46%;
+  letter-spacing: -0.03em;
+  display: inline-block;
+}
+.screen-shot-2023-11-24-at-437 {
+  position: absolute;
+  height: 71.85%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 28.15%;
+  left: 0;
+  border-radius: var(--br-189xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.front-end-developer {
+  position: absolute;
+  height: 6.51%;
+  width: 60.06%;
+  top: 88.87%;
+  left: 21.26%;
+  font-size: var(--font-size-3xl);
+  letter-spacing: -0.03em;
+  display: inline-block;
+}
+.property-1default {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 348px;
+  height: 476px;
+}
+.ashvath-shyam-sundar1 {
+  position: absolute;
+  height: 7.34%;
+  width: 99.43%;
+  top: 59.05%;
+  left: 2.87%;
+  letter-spacing: -0.03em;
+  display: inline-block;
+}
+.screen-shot-2023-11-24-at-4371 {
+  position: absolute;
+  height: 56.93%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 43.07%;
+  left: 0;
+  border-radius: var(--br-189xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.front-end-developer1 {
+  position: absolute;
+  height: 8.48%;
+  width: 60.06%;
+  top: 68.52%;
+  left: 21.26%;
+  font-size: var(--font-size-3xl);
+  letter-spacing: -0.03em;
+  display: inline-block;
+}
+.developed-the-front {
+  margin: 0;
+}
+.developed-the-front-container {
+  position: absolute;
+  height: 14.52%;
+  width: 93.97%;
+  top: 80.42%;
+  left: 2.87%;
+  font-size: var(--font-size-xs);
+  letter-spacing: -0.03em;
+  text-align: center;
+  display: inline-block;
+}
+.property-1variant3 {
+  position: absolute;
+  top: 1028px;
+  left: 25px;
+  border-radius: var(--br-20xl);
+  background-color: var(--color-white);
+  box-shadow: 0 5px 24.6px rgba(0, 0, 0, 0.2);
+  border: 5px solid var(--color-green);
+  box-sizing: border-box;
+  width: 348px;
+  height: 613px;
+}
+.ashvath-info {
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 100%;
+  height: 1725px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--body);
+}

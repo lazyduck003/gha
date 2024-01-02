@@ -1,0 +1,14 @@
+.hover {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  font-family: var(--font-be-vietnam);
+  color: var(--color-white);
+  text-align: center;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  width: 211px;
+  height: 40px;
+}

@@ -1,0 +1,200 @@
+.install1,
+.property-1default-child {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.property-1default-child {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-xs);
+  background: linear-gradient(97.02deg, #6dfaae, #00ff75);
+  box-shadow: 0 5px 12px rgba(0, 0, 0, 0.25);
+}
+.install1 {
+  width: 75.49%;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.external-link-icon1 {
+  position: absolute;
+  height: 92.59%;
+  width: 24.51%;
+  top: 0;
+  right: 0;
+  bottom: 7.41%;
+  left: 75.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.add-now-text {
+  position: absolute;
+  height: 45%;
+  width: 59.65%;
+  top: 28.33%;
+  right: 20.47%;
+  bottom: 26.67%;
+  left: 19.88%;
+}
+.property-1default2 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 171px;
+  height: 60px;
+}
+.install2,
+.property-1variant2-child {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.property-1variant2-child {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.install2 {
+  width: 75.48%;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.external-link-icon2 {
+  position: absolute;
+  height: 92.47%;
+  width: 24.52%;
+  top: 0;
+  right: 0;
+  bottom: 7.53%;
+  left: 75.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.add-now-text1 {
+  position: absolute;
+  height: 45%;
+  width: 59.66%;
+  top: 28.39%;
+  right: 20.46%;
+  bottom: 26.61%;
+  left: 19.89%;
+}
+.property-1variant2 {
+  position: absolute;
+  top: 97px;
+  left: 16px;
+  width: 175px;
+  height: 62px;
+}
+.install3,
+.property-1variant3-child {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.property-1variant3-child {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-xs);
+  background: linear-gradient(97.02deg, #52b6ff, #c112ff);
+  box-shadow: 0 5px 12px rgba(0, 0, 0, 0.25);
+}
+.install3 {
+  width: 75.51%;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.external-link-icon3 {
+  position: absolute;
+  height: 92.71%;
+  width: 24.49%;
+  top: 0;
+  right: 0;
+  bottom: 7.29%;
+  left: 75.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.add-now-text2 {
+  position: absolute;
+  height: 45%;
+  width: 59.67%;
+  top: 28.28%;
+  right: 20.44%;
+  bottom: 26.72%;
+  left: 19.89%;
+}
+.property-1variant32 {
+  position: absolute;
+  top: 176px;
+  left: 11px;
+  width: 180px;
+  height: 64px;
+}
+.external-link-icon4 {
+  position: absolute;
+  height: 92.69%;
+  width: 24.49%;
+  top: 0;
+  right: 0;
+  bottom: 7.31%;
+  left: 75.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.add-now-text3 {
+  position: absolute;
+  height: 44.93%;
+  width: 59.67%;
+  top: 28.36%;
+  right: 20.44%;
+  bottom: 26.72%;
+  left: 19.89%;
+}
+.property-1variant4 {
+  position: absolute;
+  top: 257px;
+  left: 11px;
+  width: 182px;
+  height: 67px;
+}
+.intall-animation1 {
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 100%;
+  height: 341px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-be-vietnam);
+}

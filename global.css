@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --body: Sanchez;
+  --heading: Outfit;
+  --font-inter: Inter;
+  --font-be-vietnam: "Be Vietnam";
+
+  /* font sizes */
+  --body-size: 18px;
+  --font-size-xl: 20px;
+  --font-size-13xl: 32px;
+  --sub-heading-size: 40px;
+  --font-size-9xl: 28px;
+  --heading-size: 47px;
+  --font-size-3xl: 22px;
+  --font-size-5xl: 24px;
+  --font-size-xs: 12px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray: #262626;
+  --color-mediumseagreen: #49b379;
+  --color-black: #000;
+  --color-dimgray-100: #565656;
+  --color-springgreen-100: #00ff75;
+  --color-springgreen-200: #08f381;
+  --color-gainsboro-100: #e6e6e6;
+  --color-gainsboro-200: #d9d9d9;
+  --color-green: #008d06;
+  --color-blueviolet: #9747ff;
+  --color-silver: #bbb;
+
+  /* Border radiuses */
+  --br-base: 16px;
+  --br-6xs: 7px;
+  --br-8xs: 5px;
+  --br-xs: 12px;
+  --br-20xl: 39px;
+  --br-189xl: 208px;
+  --br-mini: 15px;
+  --br-5xs: 8px;
+}
