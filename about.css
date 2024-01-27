@@ -1,0 +1,405 @@
+.about-us {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: inherit;
+  letter-spacing: -0.03em;
+  font-weight: 700;
+  font-family: inherit;
+}
+.frame-item {
+  position: absolute;
+  top: 66px;
+  left: 4px;
+  max-height: 100%;
+  width: 180px;
+  object-fit: cover;
+}
+.about-us-parent {
+  position: absolute;
+  top: 208px;
+  left: 626px;
+  width: 187px;
+  height: 66px;
+  text-align: left;
+  font-size: var(--heading-size);
+  font-family: var(--heading);
+}
+.back-end-developer {
+  margin: 0;
+}
+.back-end-developer-container {
+  position: absolute;
+  top: 420px;
+  left: 2px;
+  letter-spacing: -0.03em;
+  display: inline-block;
+  width: 344px;
+  height: 51px;
+}
+.screen-shot-2023-11-24-at-437 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-189xl);
+  width: 348px;
+  height: 342px;
+  object-fit: cover;
+}
+.aayush-kumar {
+  position: absolute;
+  top: 397px;
+  left: 961px;
+  width: 348px;
+  height: 471px;
+}
+.front-end-developer-container {
+  position: absolute;
+  top: 421px;
+  left: 36px;
+  letter-spacing: -0.03em;
+  display: inline-block;
+  width: 275px;
+  height: 51px;
+}
+.aryan-das,
+.vaibhav-vaddi {
+  position: absolute;
+  top: 1095px;
+  left: 811px;
+  width: 348px;
+  height: 472px;
+}
+.aryan-das {
+  margin: 0;
+  top: 366px;
+  left: 24px;
+  font-size: var(--sub-heading-size);
+  letter-spacing: -0.03em;
+  font-weight: 400;
+  font-family: inherit;
+  color: var(--color-green);
+  display: inline-block;
+  width: 299px;
+  height: 45px;
+}
+.aayush-kumar2 {
+  position: absolute;
+  top: 395px;
+  left: 86px;
+  width: 348px;
+  height: 472px;
+}
+.ashvath-shyam-sundar1,
+.front-end-developer-container2 {
+  position: absolute;
+  top: 421px;
+  left: 95px;
+  letter-spacing: -0.03em;
+  display: inline-block;
+  width: 275px;
+  height: 51px;
+}
+.ashvath-shyam-sundar1 {
+  margin: 0;
+  top: 343px;
+  left: 0;
+  font-size: var(--sub-heading-size);
+  font-weight: 400;
+  font-family: inherit;
+  color: var(--color-green);
+  width: 452px;
+  height: 69px;
+}
+.screen-shot-2023-11-24-at-4373 {
+  position: absolute;
+  top: 0;
+  left: 59px;
+  border-radius: var(--br-189xl);
+  width: 348px;
+  height: 342px;
+  object-fit: cover;
+}
+.ashvath-shyam-sundar {
+  position: absolute;
+  top: 1095px;
+  left: 165px;
+  width: 452px;
+  height: 472px;
+}
+.fuulstakc-developer-better-container,
+.priyanshu-sahu1 {
+  position: absolute;
+  top: 421px;
+  left: 0;
+  letter-spacing: -0.03em;
+  display: inline-block;
+  width: 356px;
+  height: 51px;
+}
+.priyanshu-sahu1 {
+  margin: 0;
+  top: 366px;
+  left: 30px;
+  font-size: var(--sub-heading-size);
+  font-weight: 400;
+  font-family: var(--body);
+  color: var(--color-green);
+  width: 295px;
+  height: 45px;
+}
+.screen-shot-2023-11-24-at-4374 {
+  position: absolute;
+  top: 0;
+  left: 4px;
+  border-radius: var(--br-189xl);
+  width: 348px;
+  height: 342px;
+  object-fit: cover;
+}
+.priyanshu-sahu {
+  position: absolute;
+  top: 393px;
+  left: 542px;
+  width: 356px;
+  height: 472px;
+  font-family: var(--font-inter);
+}
+.nav-bar-item {
+  position: absolute;
+  top: 53px;
+  left: 549px;
+  width: 180px;
+  height: 2px;
+  object-fit: cover;
+}
+.about3 {
+  position: absolute;
+  top: 15px;
+  left: 748px;
+  cursor: pointer;
+}
+.donate2,
+.sponsor2 {
+  position: absolute;
+  top: 15px;
+  left: 1052px;
+}
+.sponsor2 {
+  left: 878px;
+  cursor: pointer;
+}
+.nav-bar-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-springgreen-100);
+  box-sizing: border-box;
+  width: 238px;
+  height: 57px;
+}
+.global-wellness-watch2 {
+  position: absolute;
+  top: 15px;
+  left: 10px;
+  font-family: var(--body);
+  display: inline-block;
+  width: 222px;
+  height: 26px;
+}
+.rectangle-3default-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-green);
+}
+.nav-bar3,
+.rectangle-3default {
+  position: absolute;
+  top: 46px;
+  left: 740px;
+  width: 69px;
+  height: 3px;
+}
+.nav-bar3 {
+  top: 0;
+  left: 0;
+  width: 1121px;
+  height: 57px;
+}
+.frame-inner,
+.home3 {
+  position: absolute;
+  top: 0;
+  left: 7px;
+}
+.frame-inner {
+  height: 8.66%;
+  width: 100%;
+  top: 91.08%;
+  right: 0;
+  bottom: 0.26%;
+  left: 0;
+  border-radius: var(--br-6xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.home-group {
+  position: absolute;
+  top: 15px;
+  left: 598px;
+  width: 69px;
+  height: 38.1px;
+  cursor: pointer;
+}
+.rectangle-3default-item {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-green);
+  display: none;
+}
+.nav-bar2,
+.rectangle-3default1 {
+  position: absolute;
+  top: 49px;
+  left: 598px;
+  width: 69px;
+  height: 3px;
+}
+.nav-bar2 {
+  top: 51px;
+  left: 160px;
+  width: 1121px;
+  height: 57px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+}
+.footer-bg1 {
+  position: absolute;
+  top: 1639px;
+  left: 0;
+  background-color: var(--color-gray);
+  width: 1440px;
+  height: 335px;
+}
+.home-about-sponsor-container1 {
+  position: absolute;
+  top: 66px;
+  left: 456px;
+}
+.email-phone-report-container1,
+.globalwellnesswatch1 {
+  position: absolute;
+  top: 66px;
+  left: 648px;
+}
+.globalwellnesswatch1 {
+  left: 856px;
+}
+.contact1,
+.global-wellness-watch3,
+.pages1,
+.socials1 {
+  position: absolute;
+  letter-spacing: -0.03em;
+  font-family: var(--heading);
+  color: var(--color-mediumseagreen);
+  text-align: center;
+}
+.global-wellness-watch3 {
+  margin: 0;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-13xl);
+  font-weight: 700;
+}
+.contact1,
+.pages1,
+.socials1 {
+  top: 7px;
+  left: 456px;
+  font-size: var(--font-size-xl);
+}
+.contact1,
+.socials1 {
+  left: 648px;
+}
+.socials1 {
+  left: 856px;
+}
+.instagram-icon1 {
+  position: absolute;
+  top: 106px;
+  left: 910px;
+  width: 37px;
+  height: 37px;
+  object-fit: cover;
+}
+.tiktok-icon1 {
+  left: 856px;
+}
+.facebook-icon1,
+.tiktok-icon1,
+.youtube-icon1 {
+  position: absolute;
+  top: 106px;
+  width: 37px;
+  height: 37px;
+  object-fit: cover;
+}
+.facebook-icon1 {
+  left: 1019px;
+  overflow: hidden;
+}
+.youtube-icon1 {
+  left: 965px;
+}
+.empowering-awareness-inspirin-container1 {
+  position: absolute;
+  top: 66px;
+  left: 0;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 317px;
+}
+.about2,
+.footer-text1 {
+  font-family: var(--body);
+}
+.footer-text1 {
+  position: absolute;
+  top: 1693px;
+  left: 192px;
+  width: 1056px;
+  height: 227px;
+  text-align: left;
+  font-size: var(--body-size);
+  color: var(--color-white);
+}
+.about2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1974px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+}

@@ -1,0 +1,234 @@
+.nav-bar-child1 {
+  position: absolute;
+  top: 53px;
+  left: 549px;
+  width: 180px;
+  height: 2px;
+  object-fit: cover;
+}
+.about7 {
+  position: absolute;
+  top: 15px;
+  left: 748px;
+  cursor: pointer;
+}
+.donate8,
+.sponsor8 {
+  position: absolute;
+  top: 15px;
+  left: 1052px;
+}
+.sponsor8 {
+  left: 878px;
+  cursor: pointer;
+}
+.nav-bar-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-springgreen-100);
+  box-sizing: border-box;
+  width: 238px;
+  height: 57px;
+}
+.global-wellness-watch6 {
+  position: absolute;
+  top: 15px;
+  left: 10px;
+  font-family: var(--body);
+  display: inline-block;
+  width: 222px;
+  height: 26px;
+}
+.rectangle-3default-child2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-green);
+}
+.nav-bar7,
+.rectangle-3default4 {
+  position: absolute;
+  top: 46px;
+  left: 1052px;
+  width: 69px;
+  height: 3px;
+}
+.nav-bar7 {
+  top: 0;
+  left: 0;
+  width: 1121px;
+  height: 57px;
+}
+.frame-child1,
+.home7 {
+  position: absolute;
+  top: 0;
+  left: 7px;
+}
+.frame-child1 {
+  height: 8.17%;
+  width: 100%;
+  top: 91.83%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-6xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.frame-div {
+  position: absolute;
+  top: 15px;
+  left: 598px;
+  width: 69px;
+  height: 41.6px;
+}
+.rectangle-3default-child3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-green);
+  display: none;
+}
+.rectangle-3default5 {
+  position: absolute;
+  top: 49px;
+  left: 598px;
+  width: 69px;
+  height: 3px;
+}
+.footer-bg3,
+.nav-bar6 {
+  position: absolute;
+  top: 51px;
+  left: 160px;
+  width: 1121px;
+  height: 57px;
+}
+.footer-bg3 {
+  top: 1639px;
+  left: 0;
+  background-color: var(--color-gray);
+  width: 1440px;
+  height: 335px;
+}
+.home8 {
+  margin: 0;
+}
+.home-about-sponsor-container3 {
+  position: absolute;
+  top: 66px;
+  left: 456px;
+}
+.email-phone-report-container3,
+.globalwellnesswatch3 {
+  position: absolute;
+  top: 66px;
+  left: 648px;
+}
+.globalwellnesswatch3 {
+  left: 856px;
+}
+.contact3,
+.global-wellness-watch7,
+.pages3,
+.socials3 {
+  position: absolute;
+  letter-spacing: -0.03em;
+  font-family: var(--heading);
+  color: var(--color-mediumseagreen);
+  text-align: center;
+}
+.global-wellness-watch7 {
+  margin: 0;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-13xl);
+  font-weight: 700;
+}
+.contact3,
+.pages3,
+.socials3 {
+  top: 7px;
+  left: 456px;
+  font-size: var(--font-size-xl);
+}
+.contact3,
+.socials3 {
+  left: 648px;
+}
+.socials3 {
+  left: 856px;
+}
+.instagram-icon3 {
+  position: absolute;
+  top: 106px;
+  left: 910px;
+  width: 37px;
+  height: 37px;
+  object-fit: cover;
+}
+.tiktok-icon3 {
+  left: 856px;
+}
+.facebook-icon3,
+.tiktok-icon3,
+.youtube-icon3 {
+  position: absolute;
+  top: 106px;
+  width: 37px;
+  height: 37px;
+  object-fit: cover;
+}
+.facebook-icon3 {
+  left: 1019px;
+  overflow: hidden;
+}
+.youtube-icon3 {
+  left: 965px;
+}
+.empowering-awareness-inspirin-container3 {
+  position: absolute;
+  top: 66px;
+  left: 0;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 317px;
+}
+.footer-text3 {
+  position: absolute;
+  top: 1693px;
+  left: 192px;
+  width: 1056px;
+  height: 227px;
+  text-align: left;
+  font-size: var(--body-size);
+  color: var(--color-white);
+  font-family: var(--body);
+}
+.donate7 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1974px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
